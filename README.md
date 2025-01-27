@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Path Finding Algorithms**
 
-- 🌱 I’m currently learning **Computer Science courses**
+- 🌱 I’m currently learning **Computer Science Engineering**
 
 - 👨‍💻 All of my projects are available at [my github profile](my github profile)
 
-- 💬 Ask me about **Java, C, HTML, CSS**
+- 💬 Ask me about **Java, Python, C, HTML, CSS**
 
 - 📫 How to reach me **ritvikbhatnagar6@gmail.com**
 
