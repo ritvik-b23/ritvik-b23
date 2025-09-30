@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ritvik Bhatnagar</h1>
-<h3 align="center">A passionate programmer</h3>
-
-- 🔭 I’m currently working on **Path Finding Algorithms**
 
 - 🌱 I’m currently learning **Computer Science Engineering**
 
 - 👨‍💻 All of my projects are available at [my github profile](my github profile)
 
-- 💬 Ask me about **Java, Python, C, HTML, CSS**
+- 💬 Ask me about **Java, Python, C, HTML, CSS, AI/ML, QML, Blockchain**
 
 - 📫 How to reach me **ritvikbhatnagar6@gmail.com**
 
